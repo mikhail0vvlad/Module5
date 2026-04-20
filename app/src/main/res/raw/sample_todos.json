@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Изучить Jetpack Compose",
+    "description": "Пройти официальный курс по Compose на developer.android.com",
+    "isCompleted": true
+  },
+  {
+    "title": "Реализовать Room Database",
+    "description": "Создать Entity, DAO и Database для хранения задач",
+    "isCompleted": true
+  },
+  {
+    "title": "Настроить DataStore",
+    "description": "Заменить SharedPreferences на Preferences DataStore",
+    "isCompleted": false
+  },
+  {
+    "title": "Добавить навигацию",
+    "description": "Реализовать Navigation Compose с несколькими экранами",
+    "isCompleted": false
+  },
+  {
+    "title": "Написать Unit-тесты",
+    "description": "Покрыть тестами ViewModel и Repository",
+    "isCompleted": false
+  },
+  {
+    "title": "Проверить Scoped Storage",
+    "description": "Убедиться, что работа с файлами соответствует Android 11+",
+    "isCompleted": false
+  }
+]

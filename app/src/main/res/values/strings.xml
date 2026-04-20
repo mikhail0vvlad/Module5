@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Модуль 5</string>
+
+    <!-- Главный экран -->
+    <string name="home_title">Модуль 5 — Задания</string>
+    <string name="task1_title">Задание 1</string>
+    <string name="task1_desc">Дневник\n(внутреннее хранилище)</string>
+    <string name="task2_title">Задание 2–3</string>
+    <string name="task2_desc">Фотогалерея\n(камера + экспорт)</string>
+    <string name="task4_title">Задание 4</string>
+    <string name="task4_desc">Список дел\n(Room + DataStore)</string>
+
+    <!-- Дневник -->
+    <string name="diary_title">Дневник</string>
+    <string name="diary_empty">Записей пока нет.\nНажмите + чтобы создать первую.</string>
+    <string name="diary_new_entry">Новая запись</string>
+    <string name="diary_edit_entry">Редактировать запись</string>
+    <string name="diary_hint_title">Заголовок (необязательно)</string>
+    <string name="diary_hint_content">Текст записи…</string>
+    <string name="diary_save">Сохранить</string>
+    <string name="diary_delete">Удалить</string>
+
+    <!-- Галерея -->
+    <string name="gallery_title">Фотогалерея</string>
+    <string name="gallery_empty">Фотографий пока нет.\nНажмите кнопку камеры.</string>
+    <string name="gallery_export">Экспорт в галерею</string>
+    <string name="gallery_export_success">Фото добавлено в галерею</string>
+    <string name="gallery_delete">Удалить фото</string>
+
+    <!-- Список дел -->
+    <string name="todo_title">Список дел</string>
+    <string name="todo_empty">Задач пока нет.\nНажмите + чтобы добавить.</string>
+    <string name="todo_new">Новая задача</string>
+    <string name="todo_edit">Редактировать задачу</string>
+    <string name="todo_hint_title">Название задачи</string>
+    <string name="todo_hint_desc">Описание (необязательно)</string>
+    <string name="todo_save">Сохранить</string>
+    <string name="todo_delete">Удалить</string>
+    <string name="todo_color_switch">Цвет выполненных</string>
+    <string name="todo_imported">Задачи успешно импортированы из JSON</string>
+</resources>
